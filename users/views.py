@@ -33,7 +33,7 @@ def profile(request):
         uform = UserUpdateForm(instance=request.user)
         pform = ProfileUpdateForm(instance=request.user.profile)
 
-    return render(request, 'users/profile.html', {'uform': uform, 'pform': pform})
+    return render(request, 'users/profile_edit.html', {'uform': uform, 'pform': pform})
 
 
 
