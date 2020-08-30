@@ -1,9 +1,9 @@
-# Django Twitter Clone by Redian Marku
+# Django Social Media Web App by Ennin Francis
 
-Fully functional Django App that looks ecxatly like real Twitter.
+Fully functional Django App
 
-Demo Image:
-![](TwitterDemo.png)
+<!-- Demo Image:
+![](TwitterDemo.png) -->
 
 ## Setup
 
